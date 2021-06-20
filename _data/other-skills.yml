@@ -1,7 +1,15 @@
-- name: Adobe Photoshop
-  percentage: 95
+- name: Google Cloud Platform
+  percentage: 70
   color: info
 
-- name: Adobe Illustrator
+- name: BigQuery
+  percentage: 90
+  color: success
+
+- name: Google App Scripts
+  percentage: 90
+  color: success
+
+- name: Google Ad Scripts
   percentage: 90
   color: success

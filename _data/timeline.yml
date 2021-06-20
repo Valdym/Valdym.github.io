@@ -1,17 +1,23 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Student, KTU CENG
+  from: 2015
+  to: 2020
+  description: Taking part of university club activities both academic and socially.
+               Founding a club from scratch, KTU AI(https://ktu.ai) which we organized many 
+               activities in AI/Analytics area. Working a social-responsibility projects at ESN Trabzon,
+               which a branch in ESN Turkey. 
 
-- title: Software Engineer, Google, UK
-  from: 2018
+
+- title: Software Developer, AnalyticaHouse, Istanbul
+  from: 2020
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: Created streaming data pipeline with clickstream data in the Google Cloud,
+               latency was 5 second.(GA like system) Cube.js used for visualization purposes, 
+               also Redis was the cache database. 
+               Tech stack = Compute Engine, Pub/Sub, Dataflow, BigQuery, Snowplow, Docker, Cube.js. 
+               Creating various scripts for the needs of Performance Marketing Team.
+               using Analytics Reporting API, Sheets API, Ads API. 
+               Creating Web APP for forecasting Google Trends data. 
+               Tech Stack = Tornado, MongoDB, Bootstrap, Javascript, Prophet. 
+               Creating product reports for customers with web scraping, Scraped almost 25 different web sites which biggest e-commerces in Turkey. Added CI workflow with Git. Automated this reports using Crontab on Google Cloud VM.
+               Tech Stack= Bs4,Requests, thread. 
+               Customer and Product segmentation with big data using K-Means and RFM techniques.
