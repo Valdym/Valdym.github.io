@@ -8,7 +8,7 @@
 
 
 - title: Software Developer, AnalyticaHouse, Istanbul
-  from: 2020
+  from: 2020 August
   to: present
   description: Created streaming data pipeline with clickstream data in the Google Cloud,
                latency was 5 second.(GA like system) Cube.js used for visualization purposes, 

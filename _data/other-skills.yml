@@ -4,7 +4,7 @@
 
 - name: BigQuery
   percentage: 90
-  color: success
+  color: secondary
 
 - name: Google App Scripts
   percentage: 90
